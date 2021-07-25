@@ -22,3 +22,7 @@ Open the terminal
  g0 down https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
  unzip Project_data.zip
+ 
+#Result 
+
+I choose CNN+LSTM based model for its high accuracy
